@@ -42,6 +42,6 @@ Este projeto foi desenvolvido como **exercício de lógica de programação em A
 
 ---
 
-## 📌 Observação
+## Observação
 
 Este projeto tem **finalidade educacional** e foi criado para fins de estudo e prática com **AdvPL no ambiente Protheus**.
